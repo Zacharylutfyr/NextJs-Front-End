@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 5297827,
+      "name": "Aagam Adiga MD",
+      "email": "adiga_md_aagam@moore.test",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 5297824,
+      "name": "Geeta Chattopadhyay",
+      "email": "geeta_chattopadhyay@glover-heathcote.example",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 5297823,
+      "name": "Msgr. Javas Dubashi",
+      "email": "dubashi_javas_msgr@breitenberg-prosacco.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5297822,
+      "name": "Adikavi Guha DC",
+      "email": "adikavi_guha_dc@lowe.example",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 5297818,
+      "name": "Ramesh Deshpande",
+      "email": "deshpande_ramesh@buckridge.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5297817,
+      "name": "Nalini Naik",
+      "email": "naik_nalini@lebsack.test",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5297815,
+      "name": "Pres. Chanda Chaturvedi",
+      "email": "chaturvedi_chanda_pres@hodkiewicz.test",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 5297814,
+      "name": "Bankim Dutta II",
+      "email": "bankim_ii_dutta@fisher-cremin.test",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5297813,
+      "name": "Bhamini Tandon",
+      "email": "tandon_bhamini@bashirian.test",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "name": "Zachary",
+      "email": "zacharylutfyr@gmail.com",
+      "gender": "Male",
+      "status": "Single",
+      "id": 5297828
+    },
+    {
+      "name": "1",
+      "email": "1",
+      "gender": "1",
+      "status": "1",
+      "id": 5297829
+    },
+    {
+      "name": "2",
+      "email": "2",
+      "gender": "2",
+      "status": "2",
+      "id": 5297830
+    }
+  ]
+}
